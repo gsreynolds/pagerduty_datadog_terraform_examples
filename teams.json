@@ -1,0 +1,26 @@
+{
+  "cloud": {
+    "name": "Cloud",
+    "description": "Responsible for the ACME cloud platform",
+    "members": {
+      "wile.e.coyote": "manager",
+      "daffy.duck": "responder"
+    }
+  },
+  "security": {
+    "name": "Security",
+    "description": "Responsible for ACME security",
+    "members": {
+      "security1": "manager",
+      "security2": "responder"
+    }
+  },
+  "exec_stakeholders": {
+    "name": "Executive Stakeholders",
+    "description": "ACME executive stakeholders",
+    "members": {
+      "stakeholder1": "observer",
+      "stakeholder2": "observer"
+    }
+  }
+}

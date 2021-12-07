@@ -1,0 +1,6 @@
+pagerduty_token = ""
+pagerduty_service_region = ""
+pagerduty_subdomain = ""
+datadog_api_key = ""
+datadog_app_key = ""
+datadog_domain = ""
